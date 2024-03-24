@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://luna-landing-rust.vercel.app/sitemap-index.xml
+Sitemap: https://ziuteg.github.io/landing-page-release/sitemap-index.xml
